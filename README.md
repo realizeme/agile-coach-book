@@ -1,5 +1,7 @@
 # agile-coach-book
 
+지금 게획한 교육이 완료되면 꼭 한번 참석해야지.. 기대된다.
+📘 [자료 링크](http://www.ac2.kr/reading/technical-reading)
 
 ## 개론적 이해
 - 익스트림 프로그래밍
